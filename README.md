@@ -1,2 +1,2 @@
 # SunMeasure
-Firmware for a sun follower/temp logger
+Firmware for a sun follower/temp logger (Arduino)
